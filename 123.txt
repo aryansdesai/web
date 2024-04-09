@@ -1,0 +1,13 @@
+27 , 29 , 1 ,  3 ----------------------------exam######################
+
+time 6 to 8
+	
+
+
+network				1st paper
+
+php				second paper
+
+sp				3 paper
+
+java				4paper
